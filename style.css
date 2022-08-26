@@ -1,0 +1,68 @@
+body{
+	background-image: url('image/map.jpg');
+}
+
+#fname{
+	width: 48%;
+float: left;
+padding: 5px;
+margin: 5px;
+}
+#lname{
+	width: 48%;
+	float: right;
+	padding: 5px;
+	margin: 5px;
+	
+}
+#address{
+	width: 68%;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+}
+#apt{
+	width: 28%;
+	float: right;
+	padding: 5px;
+	margin: 5px;
+}
+#city{
+	width: 38%;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+
+}
+#state{
+	width: 29%;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+
+}
+#zip{
+width: 28%;
+	float: right;
+	padding: 5px;
+	margin: 5px;
+}
+#email{
+width: 68%;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+}
+#phone{
+width: 28%;
+	float: right;
+	padding: 5px;
+	margin: 5px;
+}
+#button{
+	border-radius: 75px 75px;
+            padding: 6px;
+            text-align: center;
+            width: 100px;
+            height: 30px;
+        }
